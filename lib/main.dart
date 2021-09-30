@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.yellow,
       ),
       //home: MyHomePage(title: 'Flutter Demo Home Page'),
-      home :  RCard(),
+      home: RCard(),
     );
   }
 }
